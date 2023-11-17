@@ -49,14 +49,17 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
-    height: 800px;
+/* I modified this code by adding img to .hero, removing background image
+ and making height to auto.   */
+.hero img {
+    height: auto;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    /* below are original codes */
+    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
+    /* height: 800px;   */
 }
 
 .float-left {
