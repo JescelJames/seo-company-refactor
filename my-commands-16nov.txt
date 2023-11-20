@@ -1,0 +1,101 @@
+    1  ls
+    2  cd bootcamp
+    3  ls
+    4  ls my_commands_day3.txt
+    5  ls
+    6  cat my_commands_day3.txt
+    7  ls
+    8  cd class-repos
+    9  ls
+   10  cd seo-code-refactor
+   11  ls
+   12  code .
+   13  git config user.name
+   14  cd ~
+   15  git confit user.name
+   16  git config user.name
+   17  git config user.email
+   18  git config --global user.email
+   19  git config user.name
+   20  git config --list
+   21  git --version
+   22  git fetch
+   23  ls
+   24  cd bootcamp
+   25  git fetch
+   26  ls
+   27  pwd
+   28  ls
+   29  cd class-repos
+   30  ls
+   31  git fetch
+   32  git remote show origin
+   33  pwd
+   34  ls
+   35  cd ..
+   36  ls
+   37  cd prework-study-guide
+   38  ls
+   39  git fetch
+   40  pwd
+   41  ls
+   42  cd ..
+   43  ls
+   44  cd class-repos
+   45  ls
+   46  cd seo-code-refactor
+   47  ls
+   48  git add -A
+   49  git commit -m"Added message in index html before head element"
+   50  git status
+   51  history
+   52  git push
+   53  ls
+   54  cd ..
+   55  ls
+   56  cd seo-code-refactor
+   57  ls
+   58  git add -A
+   59  git status
+   60  git commit -m "Added message in index"
+   61  cd ~
+   62  dir /s /b .git
+   63  cd bootcamp
+   64  ls
+   65  dir /s /b .git
+   66  dir .git
+   67  git clone git@github.com:JescelJames/seo-company-refactor.git
+   68  git statuys
+   69  git status
+   70  ls
+   71  cd seo-company-refactor
+   72  git status
+   73  ls
+   74  code .
+   75  git status
+   76  git add -A
+   77  git commit -m "Test. Added comment in index before head element."
+   78  git status
+   79  git push origin main
+   80  git status
+   81  ls
+   82  code .
+   83  ls
+   84  code .
+   85  cd ~
+   86  git clone git@git.bootcampcontent.com:Columbia-University/CU-VIRT-FSF-FT-11-2023-U-LOLC.git
+   87  cd CU-VIRT-FSF-FT-11-2023-U-LOLC/
+   88  code .
+   89  cd ~
+   90  ls
+   91  cd bootcamp
+   92  git status
+   93  ls
+   94  cd seo-company-refactor/
+   95  git status
+   96  pwd
+   97  code .
+   98  git stash
+   99  git status
+  100  history
+  101  history > my-commands-16nov.txt
